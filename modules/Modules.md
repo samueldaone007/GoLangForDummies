@@ -80,4 +80,8 @@ Hi, Samuel. Welcome!
 
 You're off to a great start! Keep going.
 
+## Note
+
+I found out tht backward compatibility means when a module can be updated and still work with the older versions data,configuration and what not
+
 *Beginner-friendly. Corrections welcome!*
